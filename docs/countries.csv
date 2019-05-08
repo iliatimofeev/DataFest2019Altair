@@ -1,0 +1,251 @@
+M49,Name,Region,Sub-region,Intermediate Region,Region Code,Sub-region Code,Intermediate Region Code,World bank region
+12,Algeria,Africa,Northern Africa,,2.0,15.0,,Middle East & North Africa
+818,Egypt,Africa,Northern Africa,,2.0,15.0,,Middle East & North Africa
+434,Libya,Africa,Northern Africa,,2.0,15.0,,Middle East & North Africa
+504,Morocco,Africa,Northern Africa,,2.0,15.0,,Middle East & North Africa
+729,Sudan,Africa,Northern Africa,,2.0,15.0,,Sub-Saharan Africa
+788,Tunisia,Africa,Northern Africa,,2.0,15.0,,Middle East & North Africa
+732,Western Sahara,Africa,Northern Africa,,2.0,15.0,,
+86,British Indian Ocean Territory,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,
+108,Burundi,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+174,Comoros,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+262,Djibouti,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Middle East & North Africa
+232,Eritrea,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+231,Ethiopia,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+260,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,
+404,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+450,Madagascar,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+454,Malawi,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+480,Mauritius,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+175,Mayotte,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,
+508,Mozambique,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+638,Réunion,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,
+646,Rwanda,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+690,Seychelles,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+706,Somalia,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+728,South Sudan,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+800,Uganda,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+834,United Republic of Tanzania,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+894,Zambia,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+716,Zimbabwe,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0,Sub-Saharan Africa
+24,Angola,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+120,Cameroon,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+140,Central African Republic,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+148,Chad,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+178,Congo,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+180,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+226,Equatorial Guinea,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+266,Gabon,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+678,Sao Tome and Principe,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0,Sub-Saharan Africa
+72,Botswana,Africa,Sub-Saharan Africa,Southern Africa,2.0,202.0,18.0,Sub-Saharan Africa
+748,Eswatini,Africa,Sub-Saharan Africa,Southern Africa,2.0,202.0,18.0,Sub-Saharan Africa
+426,Lesotho,Africa,Sub-Saharan Africa,Southern Africa,2.0,202.0,18.0,Sub-Saharan Africa
+516,Namibia,Africa,Sub-Saharan Africa,Southern Africa,2.0,202.0,18.0,Sub-Saharan Africa
+710,South Africa,Africa,Sub-Saharan Africa,Southern Africa,2.0,202.0,18.0,Sub-Saharan Africa
+204,Benin,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+854,Burkina Faso,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+132,Cabo Verde,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+384,Côte d’Ivoire,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+270,Gambia,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+288,Ghana,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+324,Guinea,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+624,Guinea-Bissau,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+430,Liberia,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+466,Mali,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+478,Mauritania,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+562,Niger,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+566,Nigeria,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+654,Saint Helena,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,
+686,Senegal,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+694,Sierra Leone,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+768,Togo,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0,Sub-Saharan Africa
+660,Anguilla,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+28,Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+533,Aruba,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+44,Bahamas,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+52,Barbados,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+535,"Bonaire, Sint Eustatius and Saba",Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+92,British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+136,Cayman Islands,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+192,Cuba,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+531,Curaçao,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+212,Dominica,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+214,Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+308,Grenada,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+312,Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+332,Haiti,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+388,Jamaica,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+474,Martinique,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+500,Montserrat,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+630,Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+652,Saint Barthélemy,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+659,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+662,Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+663,Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+670,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+534,Sint Maarten (Dutch part),Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+780,Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,Latin America & Caribbean
+796,Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+850,United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0,
+84,Belize,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+188,Costa Rica,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+222,El Salvador,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+320,Guatemala,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+340,Honduras,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+484,Mexico,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+558,Nicaragua,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+591,Panama,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0,Latin America & Caribbean
+32,Argentina,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+68,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+74,Bouvet Island,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,
+76,Brazil,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+152,Chile,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+170,Colombia,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+218,Ecuador,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+238,Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,
+254,French Guiana,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,
+328,Guyana,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+600,Paraguay,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+604,Peru,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+239,South Georgia and the South Sandwich Islands,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,
+740,Suriname,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+858,Uruguay,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+862,Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0,Latin America & Caribbean
+60,Bermuda,Americas,Northern America,,19.0,21.0,,
+124,Canada,Americas,Northern America,,19.0,21.0,,North America
+304,Greenland,Americas,Northern America,,19.0,21.0,,
+666,Saint Pierre and Miquelon,Americas,Northern America,,19.0,21.0,,
+840,United States of America,Americas,Northern America,,19.0,21.0,,North America
+10,Antarctica,,,,,,,
+398,Kazakhstan,Asia,Central Asia,,142.0,143.0,,Europe & Central Asia
+417,Kyrgyzstan,Asia,Central Asia,,142.0,143.0,,Europe & Central Asia
+762,Tajikistan,Asia,Central Asia,,142.0,143.0,,Europe & Central Asia
+795,Turkmenistan,Asia,Central Asia,,142.0,143.0,,Europe & Central Asia
+860,Uzbekistan,Asia,Central Asia,,142.0,143.0,,Europe & Central Asia
+156,China,Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
+344,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
+446,"China, Macao Special Administrative Region",Asia,Eastern Asia,,142.0,30.0,,
+408,Democratic People's Republic of Korea,Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
+392,Japan,Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
+496,Mongolia,Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
+410,Republic of Korea,Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
+96,Brunei Darussalam,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+116,Cambodia,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+360,Indonesia,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+418,Lao People's Democratic Republic,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+458,Malaysia,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+104,Myanmar,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+608,Philippines,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+702,Singapore,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+764,Thailand,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+626,Timor-Leste,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+704,Viet Nam,Asia,South-eastern Asia,,142.0,35.0,,East Asia & Pacific
+4,Afghanistan,Asia,Southern Asia,,142.0,34.0,,South Asia
+50,Bangladesh,Asia,Southern Asia,,142.0,34.0,,South Asia
+64,Bhutan,Asia,Southern Asia,,142.0,34.0,,South Asia
+356,India,Asia,Southern Asia,,142.0,34.0,,South Asia
+364,Iran (Islamic Republic of),Asia,Southern Asia,,142.0,34.0,,Middle East & North Africa
+462,Maldives,Asia,Southern Asia,,142.0,34.0,,South Asia
+524,Nepal,Asia,Southern Asia,,142.0,34.0,,South Asia
+586,Pakistan,Asia,Southern Asia,,142.0,34.0,,South Asia
+144,Sri Lanka,Asia,Southern Asia,,142.0,34.0,,South Asia
+51,Armenia,Asia,Western Asia,,142.0,145.0,,Europe & Central Asia
+31,Azerbaijan,Asia,Western Asia,,142.0,145.0,,Europe & Central Asia
+48,Bahrain,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+196,Cyprus,Asia,Western Asia,,142.0,145.0,,Europe & Central Asia
+268,Georgia,Asia,Western Asia,,142.0,145.0,,Europe & Central Asia
+368,Iraq,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+376,Israel,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+400,Jordan,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+414,Kuwait,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+422,Lebanon,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+512,Oman,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+634,Qatar,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+682,Saudi Arabia,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+275,State of Palestine,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+760,Syrian Arab Republic,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+792,Turkey,Asia,Western Asia,,142.0,145.0,,Europe & Central Asia
+784,United Arab Emirates,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+887,Yemen,Asia,Western Asia,,142.0,145.0,,Middle East & North Africa
+112,Belarus,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+100,Bulgaria,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+203,Czechia,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+348,Hungary,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+616,Poland,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+498,Republic of Moldova,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+642,Romania,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+643,Russian Federation,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+703,Slovakia,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+804,Ukraine,Europe,Eastern Europe,,150.0,151.0,,Europe & Central Asia
+248,Åland Islands,Europe,Northern Europe,,150.0,154.0,,
+831,Guernsey,Europe,Northern Europe,Channel Islands,150.0,154.0,830.0,
+832,Jersey,Europe,Northern Europe,Channel Islands,150.0,154.0,830.0,
+680,Sark,Europe,Northern Europe,Channel Islands,150.0,154.0,830.0,
+208,Denmark,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+233,Estonia,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+234,Faroe Islands,Europe,Northern Europe,,150.0,154.0,,
+246,Finland,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+352,Iceland,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+372,Ireland,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+833,Isle of Man,Europe,Northern Europe,,150.0,154.0,,
+428,Latvia,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+440,Lithuania,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+578,Norway,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+744,Svalbard and Jan Mayen Islands,Europe,Northern Europe,,150.0,154.0,,
+752,Sweden,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+826,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,,150.0,154.0,,Europe & Central Asia
+8,Albania,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+20,Andorra,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+70,Bosnia and Herzegovina,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+191,Croatia,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+292,Gibraltar,Europe,Southern Europe,,150.0,39.0,,
+300,Greece,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+336,Holy See,Europe,Southern Europe,,150.0,39.0,,
+380,Italy,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+470,Malta,Europe,Southern Europe,,150.0,39.0,,Middle East & North Africa
+499,Montenegro,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+807,North Macedonia,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+620,Portugal,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+674,San Marino,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+688,Serbia,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+705,Slovenia,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+724,Spain,Europe,Southern Europe,,150.0,39.0,,Europe & Central Asia
+40,Austria,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+56,Belgium,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+250,France,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+276,Germany,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+438,Liechtenstein,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+442,Luxembourg,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+492,Monaco,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+528,Netherlands,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+756,Switzerland,Europe,Western Europe,,150.0,155.0,,Europe & Central Asia
+36,Australia,Oceania,Australia and New Zealand,,9.0,53.0,,East Asia & Pacific
+162,Christmas Island,Oceania,Australia and New Zealand,,9.0,53.0,,
+166,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,,9.0,53.0,,
+334,Heard Island and McDonald Islands,Oceania,Australia and New Zealand,,9.0,53.0,,
+554,New Zealand,Oceania,Australia and New Zealand,,9.0,53.0,,East Asia & Pacific
+574,Norfolk Island,Oceania,Australia and New Zealand,,9.0,53.0,,
+242,Fiji,Oceania,Melanesia,,9.0,54.0,,East Asia & Pacific
+540,New Caledonia,Oceania,Melanesia,,9.0,54.0,,
+598,Papua New Guinea,Oceania,Melanesia,,9.0,54.0,,East Asia & Pacific
+90,Solomon Islands,Oceania,Melanesia,,9.0,54.0,,East Asia & Pacific
+548,Vanuatu,Oceania,Melanesia,,9.0,54.0,,East Asia & Pacific
+316,Guam,Oceania,Micronesia,,9.0,57.0,,
+296,Kiribati,Oceania,Micronesia,,9.0,57.0,,East Asia & Pacific
+584,Marshall Islands,Oceania,Micronesia,,9.0,57.0,,East Asia & Pacific
+583,Micronesia (Federated States of),Oceania,Micronesia,,9.0,57.0,,East Asia & Pacific
+520,Nauru,Oceania,Micronesia,,9.0,57.0,,East Asia & Pacific
+580,Northern Mariana Islands,Oceania,Micronesia,,9.0,57.0,,
+585,Palau,Oceania,Micronesia,,9.0,57.0,,East Asia & Pacific
+581,United States Minor Outlying Islands,Oceania,Micronesia,,9.0,57.0,,
+16,American Samoa,Oceania,Polynesia,,9.0,61.0,,
+184,Cook Islands,Oceania,Polynesia,,9.0,61.0,,
+258,French Polynesia,Oceania,Polynesia,,9.0,61.0,,
+570,Niue,Oceania,Polynesia,,9.0,61.0,,
+612,Pitcairn,Oceania,Polynesia,,9.0,61.0,,
+882,Samoa,Oceania,Polynesia,,9.0,61.0,,East Asia & Pacific
+772,Tokelau,Oceania,Polynesia,,9.0,61.0,,
+776,Tonga,Oceania,Polynesia,,9.0,61.0,,East Asia & Pacific
+798,Tuvalu,Oceania,Polynesia,,9.0,61.0,,East Asia & Pacific
+876,Wallis and Futuna Islands,Oceania,Polynesia,,9.0,61.0,,
+158,Taiwan Province of China,Asia,Eastern Asia,,142.0,30.0,,East Asia & Pacific
