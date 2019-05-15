@@ -18,4 +18,5 @@ alt="YouTube Video" width="240" border="10" /></a>
 * Altair/Vega: интерактивные графики из ноутбука на сайт или d3.js на халяву [PyData Moscow #6](https://iliatimofeev.github.io/PyData2019Altair/) - Илья Тимофеев
 * The best stats you've ever seen *Hans Rosling* [TED 2006](https://youtu.be/hVimVzgtD6w)
 
-[![HitCount](http://hits.dwyl.io/iliatimofeev/PyData2019Altair.svg)](http://hits.dwyl.io/iliatimofeev/PyData2019Altair)
+
+[![HitCount](http://hits.dwyl.io/iliatimofeev/DataFest2019Altair.svg)](http://hits.dwyl.io/iliatimofeev/DataFest2019Altair)
